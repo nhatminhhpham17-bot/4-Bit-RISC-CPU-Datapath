@@ -15,8 +15,8 @@ The logic optimization and hardware synthesis completely preserved the pipeline 
 - **Verification:** Successfully passed 100% of the top-level automated self-checking testbench (41 of 41 checks OK with zero unknown states).
 
 ##  Repository Contents
-- `P2_4bit_RISC_CPU.zip`: The complete archived Vivado 2026.1 project, including all RTL Verilog modules, pipeline registers, self-checking testbenches, and `.mem` files.
-- `P2_Project_Presentation.pptx`: The official project defense slide deck containing elaborated schematics, waveforms, and power reports.
+- `4bit_RISC_CPU_Pipeline.zip`: The complete archived Vivado 2026.1 project, including all RTL Verilog modules, pipeline registers, self-checking testbenches, and `.mem` files.
+- `Project_Presentation.pptx`: The official project defense slide deck containing elaborated schematics, waveforms, and power reports.
 
 ---
 **Author:** Pham Xuan Nhat Minh (Roll Number: HE200288)  
